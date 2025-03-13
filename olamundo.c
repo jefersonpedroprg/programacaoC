@@ -2,7 +2,7 @@
 
 int main(){
 
-    char nome[20];
+    char nome[24];
 
     printf("Digite o seu Nome: \n");
     scanf("%[^\n]", &nome);
