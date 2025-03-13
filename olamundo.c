@@ -4,7 +4,7 @@ int main(){
 
     char nome[20];
 
-    printf("Digite o seu nome: \n");
+    printf("Digite o seu Nome: \n");
     scanf("%[^\n]", &nome);
 
     printf("Seu nome é %s", nome)
